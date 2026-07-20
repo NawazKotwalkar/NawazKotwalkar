@@ -176,3 +176,278 @@ class NawazKotwalkar:
 # 💡 Philosophy
 
 > **"Data tells stories. AI makes decisions. Software delivers impact."**
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🏥 CanER
+
+### Canadian ER Wait Time Prediction System
+
+> AI-powered healthcare intelligence platform that predicts emergency room wait times across Canada using Machine Learning.
+
+**Highlights**
+
+* 🤖 XGBoost Regression Model
+* ⚡ FastAPI Backend
+* 📊 Interactive Dashboard
+* 🗺️ Hospital Map Visualization
+* 🐳 Docker Deployment
+* ☁️ Render Hosting
+
+**Tech Stack**
+
+`Python` `FastAPI` `XGBoost` `Scikit-Learn` `JavaScript` `HTML` `CSS`
+
+<p align="center">
+
+<a href="https://github.com/NawazKotwalkar/CanER">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+### 📊 DataSentry
+
+### Data Quality Intelligence Platform
+
+> Enterprise-grade platform that transforms raw datasets into business-ready insights with automated quality scoring.
+
+**Highlights**
+
+* 📈 Data Quality Score
+* 💰 Business Cost Analysis
+* 📑 Data Dictionary
+* 📊 Executive Dashboard
+* ⚠️ Issue Detection
+* 📋 Automated Reports
+
+**Tech Stack**
+
+`Python` `Pandas` `Streamlit` `Great Expectations` `Plotly`
+
+<p align="center">
+
+<a href="https://github.com/NawazKotwalkar/DataSentry">
+<img src="https://img.shields.io/badge/View_Project-22C55E?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📈 InsightForgeAI
+
+### Decision Intelligence Platform
+
+> AI-powered business analytics platform for transforming raw business data into actionable executive insights.
+
+**Highlights**
+
+* 📊 KPI Dashboard
+* 📉 Forecasting
+* 🧠 AI Insights
+* 📄 Executive Reports
+* 📂 CSV Analysis
+* 📈 Business Intelligence
+
+**Tech Stack**
+
+`Python` `Streamlit` `Plotly` `Pandas` `NumPy`
+
+<p align="center">
+
+<a href="https://github.com/NawazKotwalkar/InsightForgeAI">
+<img src="https://img.shields.io/badge/View_Project-F97316?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+### 💰 Expenxo
+
+### Spending Behaviour Prediction
+
+> Personal finance intelligence platform with budgeting, analytics and machine learning based expense prediction.
+
+**Highlights**
+
+* 💹 Budget Tracking
+* 📊 Spending Analytics
+* 🤖 Random Forest Prediction
+* 📈 Expense Forecasting
+* 📋 Financial Reports
+* 🔐 User Authentication
+
+**Tech Stack**
+
+`Python` `Streamlit` `Random Forest` `MySQL` `Pandas`
+
+<p align="center">
+
+<a href="https://github.com/NawazKotwalkar/Spending-Behavior-Prediction">
+<img src="https://img.shields.io/badge/View_Project-EC4899?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 Featured Technologies
+
+<div align="center">
+
+| AI & ML          | Data Engineering    | Backend   | Visualization |
+| ---------------- | ------------------- | --------- | ------------- |
+| Machine Learning | Data Cleaning       | FastAPI   | Plotly        |
+| Scikit-Learn     | ETL                 | Streamlit | Matplotlib    |
+| XGBoost          | Feature Engineering | Flask     | Dash          |
+| Forecasting      | Data Validation     | REST APIs | Chart.js      |
+
+</div>
+
+---
+
+# 🎯 What I Build
+
+```text
+                DATA
+                  │
+                  ▼
+        Data Cleaning & Validation
+                  │
+                  ▼
+      Exploratory Data Analysis
+                  │
+                  ▼
+       Feature Engineering
+                  │
+                  ▼
+        Machine Learning Model
+                  │
+                  ▼
+          API Development
+                  │
+                  ▼
+      Interactive Dashboard
+                  │
+                  ▼
+       Business Intelligence
+                  │
+                  ▼
+      Production Deployment
+```
+
+---
+
+# 🌟 Project Domains
+
+<div align="center">
+
+| Domain                   | Projects                             |
+| ------------------------ | ------------------------------------ |
+| 🏥 Healthcare AI         | CanER, AI Insurance Claim Automation |
+| 💰 Financial AI          | Expenxo, Fraud Detection             |
+| 📊 Decision Intelligence | InsightForgeAI                       |
+| 📈 Data Quality          | DataSentry                           |
+| 🤖 Machine Learning      | All Major Projects                   |
+| 📉 Business Analytics    | InsightForgeAI, DataSentry           |
+
+</div>
+
+---
+
+# 📌 Currently Working On
+
+* 🚀 Enterprise AI Applications
+* 🤖 LLM-powered Analytics
+* 📊 Decision Intelligence Platforms
+* 🏥 Healthcare Machine Learning
+* 📈 Predictive Analytics
+* ⚙️ Data Engineering Pipelines
+* 🧠 MLOps Fundamentals
+* 🌐 Open Source Contributions
+
+---
+
+# 🛠 Development Workflow
+
+```mermaid
+flowchart LR
+
+A[Collect Data]
+-->B[Clean Data]
+-->C[EDA]
+-->D[Feature Engineering]
+-->E[Train Model]
+-->F[Evaluate]
+-->G[API]
+-->H[Dashboard]
+-->I[Deploy]
+```
+
+---
+
+# 🏅 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NawazKotwalkar&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🎓 Learning Roadmap
+
+| Status | Technology         |
+| ------ | ------------------ |
+| ✅      | Python             |
+| ✅      | SQL                |
+| ✅      | Machine Learning   |
+| ✅      | Data Visualization |
+| ✅      | FastAPI            |
+| ✅      | Streamlit          |
+| 🔄     | Deep Learning      |
+| 🔄     | Computer Vision    |
+| 🔄     | Docker             |
+| 🔄     | MLOps              |
+| ⏳      | Kubernetes         |
+| ⏳      | Apache Spark       |
+| ⏳      | Apache Airflow     |
+| ⏳      | AWS                |
+| ⏳      | LangChain          |
+| ⏳      | LangGraph          |
+| ⏳      | RAG Systems        |
+
+---
+
+# 💬 Favorite Quote
+
+> **"The goal isn't just to build models—it's to build intelligent products that create measurable business impact."**
+
+---
+
