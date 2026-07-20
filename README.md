@@ -451,3 +451,192 @@ A[Collect Data]
 
 ---
 
+---
+
+# 📊 Live Coding Statistics
+
+<div align="center">
+
+<!-- Replace YOUR_WAKATIME_USERNAME with your username -->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact"/>
+
+</div>
+
+> **Note:** This section becomes active after connecting your WakaTime account.
+
+---
+
+# ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+
+* 🚀 Pushed new commits to **CanER**
+* 📊 Improved **DataSentry**
+* 🧠 Updated **InsightForgeAI**
+* 💰 Enhanced **Expenxo**
+* 🏥 Working on Healthcare AI
+
+<!--END_SECTION:activity-->
+
+---
+
+# 📦 Latest Repositories
+
+<!-- START_SECTION:repositories -->
+
+| Repository                       | Description                                   |
+| -------------------------------- | --------------------------------------------- |
+| 🚀 CanER                         | AI-powered Canadian ER Wait Prediction System |
+| 📊 DataSentry                    | Enterprise Data Quality Intelligence Platform |
+| 📈 InsightForgeAI                | Decision Intelligence Platform                |
+| 💰 Expenxo                       | Personal Finance Analytics & Prediction       |
+| 🏥 AI Insurance Claim Automation | Healthcare KPI Dashboard                      |
+
+<!-- END_SECTION:repositories -->
+
+---
+
+# 📈 Weekly Development Breakdown
+
+```text
+Python            ████████████████████ 78%
+SQL               ████                 12%
+Markdown          ██                    5%
+JavaScript        █                     3%
+Other             █                     2%
+```
+
+---
+
+# 🎯 2026 Goals
+
+* ✅ Build Production AI Applications
+* ✅ Publish Open Source Projects
+* 🔄 Master Deep Learning
+* 🔄 Learn MLOps
+* 🔄 Build RAG Applications
+* 🔄 Contribute to Open Source
+* 🔄 Learn Kubernetes
+* 🔄 Deploy AI Systems on AWS
+
+---
+
+# 📚 Currently Learning
+
+```python
+learning = {
+    "Machine Learning": "██████████ 100%",
+    "Deep Learning": "██████░░░░ 60%",
+    "Computer Vision": "███████░░░ 70%",
+    "MLOps": "████░░░░░░ 40%",
+    "Docker": "████████░░ 80%",
+    "AWS": "███░░░░░░░ 30%",
+    "LangChain": "██░░░░░░░░ 20%",
+    "Apache Spark": "██░░░░░░░░ 20%"
+}
+
+for skill, progress in learning.items():
+    print(f"{skill}: {progress}")
+```
+
+---
+
+# 🌍 Open Source Philosophy
+
+> I believe the best way to learn is by building real-world projects, sharing knowledge openly, and contributing back to the developer community. Every project in my portfolio is an opportunity to solve practical problems with data and AI.
+
+---
+
+# 🎵 Now Playing
+
+<div align="center">
+
+<!-- Replace with your Spotify username using GitHub Actions -->
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:entityarsenal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NawazKotwalkar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Replace with your actual profile links -->
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://x.com/YOUR_X_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+</div>
+
+---
+
+# 💖 Support My Work
+
+If you enjoy my projects or find them useful:
+
+⭐ Star my repositories
+
+🍴 Fork and contribute
+
+🐛 Open issues for improvements
+
+💡 Share feedback and ideas
+
+🤝 Let's collaborate on AI, Data Science, and Open Source projects
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=NawazKotwalkar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ✨ Fun Fact
+
+```python
+while True:
+    learn()
+    build()
+    improve()
+    deploy()
+    share()
+```
+
+> **"Stay curious. Build consistently. Let your work speak louder than your résumé."**
+
+---
+
+<div align="center">
+
+## Thanks for visiting! 🚀
+
+If you like what you see, consider following my journey and checking out my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:2563eb,100:0f172a&height=120&section=footer"/>
+
+</div>
